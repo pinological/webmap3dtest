@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mainCanvas{
+  border: 1px solid red;
+  height: 100vh !important;
+}
